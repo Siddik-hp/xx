@@ -4,6 +4,12 @@ const App = () => {
   return (
     <>
       <div className="main">Redux React app</div>
+      <div className="main">Redux React app</div>
+      <div className="main">Redux React app</div>
+      <div className="main">Redux React app</div>
+      <div className="main">Redux React app</div>
+      <div className="main">Redux React app</div>
+      <div className="main">Redux React app</div>
     </>
   );
 };
